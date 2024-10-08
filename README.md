@@ -1,1 +1,1 @@
-# Survey-Analysis
+This is a survey taken from different countries " USA, India, Canada, UK and Others " to analyze the job salary by title, salary by sex, if people are happy with thier current salary and their work life balance.
